@@ -1,4 +1,10 @@
-## Hi there 👋
+## Remus Midouin
+
+Hi there!
+
+My name is Remus, and this is my GitHub profile.
+
+I run a homelab with documentation here
 
 <!--
 **rem1mid/rem1mid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
